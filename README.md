@@ -10,7 +10,7 @@ This Project includes 1 colab notebook, 1 technical documentation as well as 1 p
 
 ## Executable Files:
 
-* File Name - Includes all functions required for classification operations.
+* Netflix_Clustering_Capstone_Project.ipynb - Includes all functions required for classification operations.
 ## Output -
 * **Google Colab** - All the outputs are visible in the provided colab notebook.
 ## Data Source:
@@ -33,7 +33,7 @@ A simple recommendation system was also made as an additional project on cosine 
 
 # 📋 Execution Instruction
 The order of execution of the colab notebook is as follows:
-nane of dataset
+Netflix_Clustering_Capstone_Project.ipynb
 First, click on the open in colab button present on the top center of the notebook.
 
 2) Kaggle Dataset
